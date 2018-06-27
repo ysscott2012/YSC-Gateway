@@ -1,0 +1,6 @@
+{
+  "API_ENDPOINTS": {
+    "NODE": "localhost:4000",
+    "DOTNET": "localhost:5050"
+  }
+}
